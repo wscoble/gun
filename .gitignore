@@ -18,4 +18,4 @@ isolate*.log
 !/types/**/*.d.ts
 !/types/**/*.test-d.ts
 /gun.ts
-/temp/
+/temp/.vscode
